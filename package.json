@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.3",
+    "nodemon": "^3.1.9"
+  },
+  "name": "newbackend_server",
+  "version": "1.0.0",
+  "description": "this is my practise backened projects ",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash213-gif/newbackend_server.git"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ash213-gif/newbackend_server/issues"
+  },
+  "homepage": "https://github.com/ash213-gif/newbackend_server#readme"
+}
